@@ -70,7 +70,8 @@
             "ui_link": "nodes/ui_link.js",
             "ui_tab": "nodes/ui_tab.js",
             "ui_group": "nodes/ui_group.js",
-            "ui_spacer": "nodes/ui_spacer.js"
+            "ui_spacer": "nodes/ui_spacer.js",
+            "ui_var_text": "nodes/ui_var_text.js"
         }
     },
     "dependencies": {
@@ -95,7 +96,7 @@
         "d3": "^3.5.17",
         "font-awesome": "^4.7.0",
         "gridstack": "^0.4.0",
-        "gulp": "~4.0.2",
+        "gulp": "^4.0.2",
         "gulp-angular-templatecache": "~3.0.0",
         "gulp-clean-css": "^4.0.0",
         "gulp-concat": "^2.6.1",
